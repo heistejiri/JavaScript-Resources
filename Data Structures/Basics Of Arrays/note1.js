@@ -4,5 +4,5 @@
  * 
  */
 
-c
+const groceries = ['apples', 'mangoes', 'pear', 'banana'];
 console.log("Benji");
